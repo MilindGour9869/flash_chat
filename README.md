@@ -1,6 +1,11 @@
 # flash_chat
 
-# Hello Guys !! , I had recently Created a group chat application in flutter 
+# Hello Guys !! , I had recently Created a group chat application in flutter !!
+
+# Backend used : FireStore
+# Frontend Lang : Dart 
+
+
 
 # Screenshots :
 
